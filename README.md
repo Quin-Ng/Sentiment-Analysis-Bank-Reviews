@@ -10,7 +10,7 @@ Text mining and content analysis including:
 - Theme analysis to identify main topics in customer reviews (MonkeyLearn's Natural Language Processing)
 - Sensitivity Analysis (Microsoft Azure)
 
-**Results summary: **
+**Results summary:**
 - The number of 1-star reviews accounts for 66% of the total sample size and has been increasing over the years.
 - 'Account' is the most common stem and highly associated with 'Open', and 'Money'
 - 'Customer' is the second most common stem, and highly associated with 'Service', 'Phone' and 'Account'
